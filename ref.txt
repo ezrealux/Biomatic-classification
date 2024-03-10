@@ -1,0 +1,17 @@
+dataset kaggle:
+https://www.kaggle.com/datasets/mitishaagarwal/patient
+
+imbalanced data:
+https://zhuanlan.zhihu.com/p/38687978
+
+f1-score loss:
+https://www.kaggle.com/code/rejpalcz/best-loss-function-for-f1-score-metric/notebook#Optimal-loss-function---macro-F1-score
+
+
+https://blog.csdn.net/qq_43190189/article/details/105778058
+
+focal loss:
+https://blog.csdn.net/qq_39276007/article/details/124448844
+
+SMOTE over-sampling
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjV7OnE56CDAxUU_GEKHTMrC-4QFnoECCEQAQ&url=https%3A%2F%2Fithelp.ithome.com.tw%2Farticles%2F10294614%3Fsc%3Drss.iron&usg=AOvVaw0cGcH5mrc1ktapgTXg9LS7&opi=89978449
